@@ -1,0 +1,43 @@
+name: lab6_factory
+description: "Factory App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  syncfusion_flutter_gauges: ^25.1.42
+  cupertino_icons: ^1.0.6
+  flutter_driver:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  integration_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: font\Poppins-Regular.ttf
+
+    - family: PoppinsBold
+      fonts:
+        - asset: font\Poppins-Bold.ttf
+
+  assets:
+    - images/upm_logo.jpg
+    - images/malaysia.png
+        
+
