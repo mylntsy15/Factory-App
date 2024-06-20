@@ -1,16 +1,45 @@
-# lab6_factory
+# UPM Factory App
 
-A new Flutter project.
+This is my first Flutter project, aimed at designing a UI for a factory management application. The app consists of six main pages:
 
-## Getting Started
+- Sign Up Page (Main Page)
+- Activation Page
+- Factory Status Page
+- Setting Page
+- Employee Page
+- Invitation Page
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Run `flutter pub get` to install dependencies.
+4. Use an emulator or a physical device to run the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+Once installed, navigate through different pages using the bottom navigation bar. Explore various features and functionalities.
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request with your improvements. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Flutter documentation
+- Icons8 for icon assets
+
+## Contact
+
+For questions or feedback, contact me at amylianatasya15@gmail.com
