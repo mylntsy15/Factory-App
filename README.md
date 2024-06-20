@@ -9,8 +9,6 @@ This is my first Flutter project, aimed at designing a UI for a factory manageme
 - Employee Page
 - Invitation Page
 
-## Screenshots
-
 ## Installation
 
 1. Clone the repository.
